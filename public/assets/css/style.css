@@ -1,0 +1,30 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+body {
+  background-image: url("../images/collage.jpg")
+}
+.container{
+  background:orange;
+  position: relative;
+  margin: 0px auto;
+  width: 550px;
+  border: black 2px solid;
+}
